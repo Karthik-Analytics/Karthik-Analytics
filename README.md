@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Karthik
 
-<!--
-**Karthik-Analytics/Karthik-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PL/SQL Developer with 4+ years of experience in data engineering and data analytics. 
+Currently focused on Snowflake and exploring AI-driven data solutions.
 
-Here are some ideas to get you started:
+## About Me
+- PL/SQL Developer with strong SQL fundamentals
+- Experience working with Oracle databases and ETL development
+- Building end-to-end Data Warehouse solutions
+- Currently working on Snowflake projects
+- Interested in Data Engineering and Analytics
+- Exploring AI and emerging technologies
+- Passionate about learning new data technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- SQL  
+- PL/SQL  
+- Power BI  
+- Oracle Data Integrator (ODI)  
+- Snowflake  
+- ETL  
+- Data Warehousing 
+
+## Current Focus
+- Snowflake Data Warehouse Projects  
+- Data Engineering Concepts  
+- Exploring AI in Data Engineering  
+
+## Goals
+- Transition into Snowflake / Data Engineering role  
+- Build strong data engineering portfolio  
+- Explore AI-based data solutions  
+
+## Connect
+Open to learning, collaboration, and new opportunities
+
+
+E-mail: karthik97s@outlook.com
+LinkedIn: www.linkedin.com/in/karthik-s00
