@@ -1,10 +1,10 @@
 # Hi, I'm Karthik
 
-PL/SQL Developer with 4+ years of experience in data engineering and data analytics. 
+Data Engineer with 4+ years of experience in data engineering and data analytics. 
 Currently focused on Snowflake and exploring AI-driven data solutions.
 
 ## About Me
-- PL/SQL Developer with strong SQL fundamentals
+- Data Developer with strong SQL and PL/SQL fundamentals
 - Experience working with Oracle databases and ETL development
 - Building end-to-end Data Warehouse solutions
 - Currently working on Snowflake projects
